@@ -9,7 +9,7 @@ from datetime import datetime
 # ─────────────────────────────────────────
 #  CONFIG – غيّر هذه القيم حسب سيرفرك
 # ─────────────────────────────────────────
-BOT_TOKEN = "MTA2NzQyNDU3MzgwMjQzMDU3Nw.G16-7u.D9pebpOep06YuIbgv2X0DWaB4LTe45E18tk0H8"
+BOT_TOKEN = "MTA2NzQyNDU3MzgwMjQzMDU3Nw.GRW3d6.agl33WYnOMtESGxG2z-5JQAYEcT9sfOVwoE1Pk"
 OFFERS_CHANNEL_ID   = 1494873426501046282  # ID روم العروض
 TICKET_CATEGORY_ID  = 1494721365154988223  # ID كاتيجوري التكتات
 MAX_ORDERS          = 3                    # عدد الطلبات قبل إغلاق العرض
